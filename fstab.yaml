@@ -1,5 +1,8 @@
 mountpoints:
   /:
-  url: https://author-p96753-e1523920.adobeaemcloud.com/bin/franklin.delivery/surendrapras/eds-forms-training/main
-  type: "markup"
-  suffix: ".html"
+    url: https://author-p96753-e1523920.adobeaemcloud.com/bin/franklin.delivery/surendrapras/eds-forms-training/main
+    type: "markup"
+    suffix: ".html"
+  /content/dam/eds-forms-surepras:
+    url: https://author-p96753-e1523920.adobeaemcloud.com/bin/franklin.delivery/surendrapras/eds-forms-training/main/content/dam/eds-forms-surepras
+    type: "media"
